@@ -2,7 +2,7 @@
 
 Our team create open source user-friendly software for drones:
  - [Asv.Drones.Gui](https://github.com/asv-soft/asv-drones) - GUI application for drones
- - [Asv.Drones.Gui.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station for drones
+ - [Asv.Drones.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station for drones
  - [Asv.Gnss](https://github.com/asv-soft/asv-gnss) - GNSS library for parsing RTCMv2, RTCMv3, NMEA and control recievers througt SBF, ComNav, UBX protocols
  - [Asv.Mavlink](https://github.com/asv-soft/asv-mavlink) - Mavlink library and code generator
 
