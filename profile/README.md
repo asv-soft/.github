@@ -6,6 +6,9 @@ Our team create open source user-friendly software for drones:
  - [Asv.Gnss](https://github.com/asv-soft/asv-gnss) - GNSS library for parsing RTCMv2, RTCMv3, NMEA and control recievers througt SBF, ComNav, UBX protocols
  - [Asv.Mavlink](https://github.com/asv-soft/asv-mavlink) - Mavlink library and code generator
 
+![image](https://github.com/asv-soft/.github/assets/1770739/d3a2d2a0-134d-486f-960d-f2759e52d70d)
+
+
 <!--
 
 **Here are some ideas to get you started:**
