@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 Our team create open source user-friendly software for drones:
- - [Asv.Drones.Gui](https://github.com/asv-soft/asv-drones) - GUI application for drones
- - [Asv.Drones.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station for drones
- - [Asv.Drones.Sdr](https://github.com/asv-soft/asv-drones-sdr) - The SDR payload for drones to analyze radio signals in the surrounding environment
+ - [Asv.Drones.Gui](https://github.com/asv-soft/asv-drones) - Open-source cross-platform application for UAV management with support for multiple drones and command mode
+ - [Asv.Drones.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station service with RTK supprot
+ - [Asv.Drones.Sdr](https://github.com/asv-soft/asv-drones-sdr) - SDR payload to analyze radio signals in the surrounding environment
+Want to do it yourself, we have libraries for that: 
  - [Asv.Gnss](https://github.com/asv-soft/asv-gnss) - GNSS library for parsing RTCMv2, RTCMv3, NMEA and control recievers througt SBF, ComNav, UBX protocols
  - [Asv.Mavlink](https://github.com/asv-soft/asv-mavlink) - Mavlink library and code generator
 
