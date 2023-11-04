@@ -1,12 +1,30 @@
 ## Hi there 👋
 
 Our team create open source user-friendly software for drones:
- - [Asv.Drones.Gui](https://github.com/asv-soft/asv-drones) - Open-source cross-platform application for UAV management with support for multiple drones and command mode
- - [Asv.Drones.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station service with RTK supprot
+ - [Asv.Drones.Gui](https://github.com/asv-soft/asv-drones) - Open-source cross-platform application for UAV management:
+   - Can control multiple UAV
+   - Support command mode: one operator control one\multiple drones
+   - Work with other applications (Mission Planer, QGroundControl) on the same network
+   - Extensible plugin interface ([weather example](https://github.com/asv-soft/asv-drones-gui-weather))
+   - Multiple ports: TCP_CLIENT, TCP_SERVER, UDP, SERIAL
+ - [Asv.Drones.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station service with RTK supprot:
+   - Mavlink router with multiple ports: TCP_CLIENT, TCP_SERVER, UDP, SERIAL
  - [Asv.Drones.Sdr](https://github.com/asv-soft/asv-drones-sdr) - SDR payload to analyze radio signals in the surrounding environment
-Want to do it yourself, we have libraries for that: 
- - [Asv.Gnss](https://github.com/asv-soft/asv-gnss) - GNSS library for parsing RTCMv2, RTCMv3, NMEA and control recievers througt SBF, ComNav, UBX protocols
+
+If you want DIY, we have libraries for that: 
+ - [Asv.Gnss](https://github.com/asv-soft/asv-gnss) - GNSS library
+   - Open protocols RTCMv2, RTCMv3, NMEA, raw GPS\GLONASS frames
+   - Control recievers througt SBF, ComNav, UBX protocols
  - [Asv.Mavlink](https://github.com/asv-soft/asv-mavlink) - Mavlink library and code generator
+   - Create your custom Mavlink messages and use them
+   - You can choose simple using: send and receive Mavlink messages
+   - Then connect a router and connect multiple devices
+   - Or use out abstractions over devices: ArduPlane, ArduCopter, GroundBaseStation....
+   - Or use out abstractions over microservices: Params, Missions...
+   - There is a service to find devices in the network
+   - And a lot more ...
+ 
+Feel free to connect with us or join to the team
 
 ![image](https://github.com/asv-soft/.github/assets/1770739/d3a2d2a0-134d-486f-960d-f2759e52d70d)
 
