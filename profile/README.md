@@ -9,6 +9,8 @@ Our team create open source user-friendly software for drones:
    - Multiple ports: TCP_CLIENT, TCP_SERVER, UDP, SERIAL
  - [Asv.Drones.Gbs](https://github.com/asv-soft/asv-drones-gbs) - Ground base station service with RTK supprot:
    - Mavlink router with multiple ports: TCP_CLIENT, TCP_SERVER, UDP, SERIAL
+   - Supports various GNSS receiver manufacturers
+   - Transmits differential corrections to UAV via standard Mavlink messages
  - [Asv.Drones.Sdr](https://github.com/asv-soft/asv-drones-sdr) - SDR payload to analyze radio signals in the surrounding environment
 
 If you want DIY, we have libraries for that: 
