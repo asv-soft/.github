@@ -1,3 +1,5 @@
+<img src="https://github.com/asv-soft/asv-drones-gui-afis/assets/151620493/932425b6-547e-4d35-bf90-6430265c8e97" width="300px"> 
+
 ## Hi there 👋
 
 Our team create open source user-friendly software for drones:
