@@ -16,7 +16,8 @@ Our team create open source user-friendly software for drones:
    - Supports various GNSS receiver manufacturers
    - Transmits differential corrections to UAV via standard Mavlink messages
  - [Asv.Drones.Sdr](https://github.com/asv-soft/asv-drones-sdr) - SDR payload to analyze radio signals in the surrounding environment
-
+   
+We also have [documentation](https://docs.asv.me) where you can familiarize yourself with the project in more detail.
 If you want DIY, we have libraries for that: 
  - [Asv.Gnss](https://github.com/asv-soft/asv-gnss) - GNSS library
    - Open protocols RTCMv2, RTCMv3, NMEA, raw GPS\GLONASS frames
