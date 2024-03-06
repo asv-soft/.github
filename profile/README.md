@@ -39,7 +39,8 @@ If you want DIY, we have libraries for that:
    - Interactive Map: Includes features such as route planning, distance measurement, various map providers, and anchor sets used in the main application.
    - Integration Flexibility: Integrate map functionality into your own applications.
    - Compatibility: Compatible with various platforms and frameworks.
-  In essence, ASV Map provides a comprehensive implementation of mapping functionality along with essential tools for enhancing user experience. Developers can seamlessly integrate these features into their projects.
+     
+ In essence, ASV Map provides a comprehensive implementation of mapping functionality along with essential tools for enhancing user experience. Developers can seamlessly integrate these features into their projects.
 
 Feel free to connect with us or join to the team
 
