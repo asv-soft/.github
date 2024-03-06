@@ -30,7 +30,17 @@ If you want DIY, we have libraries for that:
    - Or use out abstractions over microservices: Params, Missions...
    - There is a service to find devices in the network
    - And a lot more ...
- 
+ - [Asv.Avalonia.Toolkit](https://github.com/asv-soft/asv-avalonia-toolkit) - ASV Toolkit is a collection of various controls primarily developed for the ASV Drones project. These controls are designed to facilitate the management and control of UAVs and can be seamlessly integrated into other projects. Developers can leverage the implementation of these controls to enhance the functionality of their own applications.
+   - Custom Controls: A variety of user-friendly controls tailored for UAV management tasks.
+   - Integration Support: Seamlessly integrate controls into existing projects.
+   - Extensibility: Easily extend functionality through a plugin interface.
+   - Compatibility: Works across different platforms.
+ - [Asv.Avalonia.Map](https://github.com/asv-soft/asv-avalonia-map) - ASV Map is a standalone application that provides a mapping interface with functionalities derived from the ASV Drones project. It offers:
+   - Interactive Map: Includes features such as route planning, distance measurement, various map providers, and anchor sets used in the main application.
+   - Integration Flexibility: Integrate map functionality into your own applications.
+   - Compatibility: Compatible with various platforms and frameworks.
+  In essence, ASV Map provides a comprehensive implementation of mapping functionality along with essential tools for enhancing user experience. Developers can seamlessly integrate these features into their projects.
+
 Feel free to connect with us or join to the team
 
 ![image](https://github.com/asv-soft/.github/assets/1770739/d3a2d2a0-134d-486f-960d-f2759e52d70d)
