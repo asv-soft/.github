@@ -1,6 +1,6 @@
-<p align="center">
-<img src="![linkedin](https://github.com/user-attachments/assets/4fa5221e-7ae5-4b6b-98a8-1c1e39b49afb)
-" width="300px" >  
+
+![linkedin](https://github.com/user-attachments/assets/4fa5221e-7ae5-4b6b-98a8-1c1e39b49afb)
+
 </p>
 
 ## Hi there 👋
