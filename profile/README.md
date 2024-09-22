@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/asv-soft/asv-drones-gui-afis/assets/151620493/932425b6-547e-4d35-bf90-6430265c8e97" width="300px" >  
+<img src="![linkedin](https://github.com/user-attachments/assets/4fa5221e-7ae5-4b6b-98a8-1c1e39b49afb)
+" width="300px" >  
 </p>
 
 ## Hi there 👋
@@ -47,13 +48,4 @@ Feel free to connect with us or join to the team
 ![image](https://github.com/asv-soft/.github/assets/1770739/d3a2d2a0-134d-486f-960d-f2759e52d70d)
 
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
